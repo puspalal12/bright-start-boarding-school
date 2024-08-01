@@ -1,0 +1,20 @@
+.footer .text{
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #797979;
+}
+.text ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+.developer{
+    color: rgb(2, 117, 2);
+    margin: 10px auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
